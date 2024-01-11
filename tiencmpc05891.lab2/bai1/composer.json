@@ -1,0 +1,21 @@
+{
+    "name": "minht/minht",
+    "description": "A sample project",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "App\\": "App/",
+            "Model\\": "Model/"
+        }
+    },
+    "require": {
+        "some-vendor/some-package": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "minimum-stability": "dev",
+    "license": "MIT"
+}
+
