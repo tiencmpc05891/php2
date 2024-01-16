@@ -1,0 +1,16 @@
+{
+    "name": "minht/asm.php2",
+    "description": "php2 example source",
+    "authors": [
+        {
+            "name": "minht",
+            "email": "tiencmpc05891@fpt.edu.vn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "./App/"
+        }
+    }
+}
