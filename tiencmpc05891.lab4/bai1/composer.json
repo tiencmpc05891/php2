@@ -1,0 +1,7 @@
+{
+    "autoload": {
+        "psr-4": {
+            "bai1\\App\\Core\\": "bai1/App/Core/"
+        }
+    }
+}
