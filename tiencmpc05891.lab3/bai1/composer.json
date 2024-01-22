@@ -1,0 +1,9 @@
+{
+    "name": "minht/tiencmpc05891.lab3",
+    "autoload": {
+        "psr-4": {
+            "bai1\\App\\Core\\": "bai1/App/Core/",
+            "bai1\\App\\Model\\": "bai1/App/Model/"
+        }
+    }
+}
